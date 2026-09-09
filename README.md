@@ -5,7 +5,7 @@
 
 # 📌 Project Overview
 
-FAHEEM AI is an AI-powered study agent designed to help students understand and study large PDF documents more efficiently.
+FAHEEM AI is an AI study agent designed to help students understand and study large PDF documents more efficiently.
 
 Students often spend a significant amount of time reading long study materials, searching for specific information, summarizing chapters, and preparing for exams.
 
